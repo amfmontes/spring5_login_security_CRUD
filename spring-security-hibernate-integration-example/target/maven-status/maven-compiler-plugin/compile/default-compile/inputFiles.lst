@@ -1,11 +1,15 @@
-C:\AnaProyectos\Ana Mª Fdez-Montes\spring5_security5_hibernate\Proyecto_webTours-master\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\dao\UserDetailsDao.java
-C:\AnaProyectos\Ana Mª Fdez-Montes\spring5_security5_hibernate\Proyecto_webTours-master\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\dao\UserDetailsDaoImp.java
-C:\AnaProyectos\Ana Mª Fdez-Montes\spring5_security5_hibernate\Proyecto_webTours-master\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\controller\MyContoller.java
-C:\AnaProyectos\Ana Mª Fdez-Montes\spring5_security5_hibernate\Proyecto_webTours-master\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\model\Authorities.java
-C:\AnaProyectos\Ana Mª Fdez-Montes\spring5_security5_hibernate\Proyecto_webTours-master\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\config\WebSecurityConfig.java
-C:\AnaProyectos\Ana Mª Fdez-Montes\spring5_security5_hibernate\Proyecto_webTours-master\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\service\UserDetailsServiceImp.java
-C:\AnaProyectos\Ana Mª Fdez-Montes\spring5_security5_hibernate\Proyecto_webTours-master\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\config\WebConfig.java
-C:\AnaProyectos\Ana Mª Fdez-Montes\spring5_security5_hibernate\Proyecto_webTours-master\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\model\User.java
-C:\AnaProyectos\Ana Mª Fdez-Montes\spring5_security5_hibernate\Proyecto_webTours-master\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\config\MvcWebApplicationInitializer.java
-C:\AnaProyectos\Ana Mª Fdez-Montes\spring5_security5_hibernate\Proyecto_webTours-master\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\config\AppConfig.java
-C:\AnaProyectos\Ana Mª Fdez-Montes\spring5_security5_hibernate\Proyecto_webTours-master\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\config\SecurityWebApplicationInitializer.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\dao\NoticiasDao.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\entity\Noticia.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\model\NoticiaInfo.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\model\Authorities.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\config\AppConfig.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\service\UserDetailsServiceImp.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\dao\UserDetailsDao.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\config\WebSecurityConfig.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\model\User.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\config\WebConfig.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\controller\MyContoller.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\dao\UserDetailsDaoImp.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\config\SecurityWebApplicationInitializer.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\dao\NoticiasDaoImp.java
+C:\Users\Ana\git\spring5_login_security_CRUD\spring-security-hibernate-integration-example\src\main\java\com\boraji\tutorial\spring\config\MvcWebApplicationInitializer.java

@@ -9,6 +9,6 @@
 <body>
 <a href="<%=request.getContextPath()%>/noticias">Ir a noticias</a><br/>
 	<a href="<%=request.getContextPath()%>/contacto">Ir a contacto</a><br/>
-	<a href="<%=request.getContextPath()%>/login">Ir a contacto</a>
+	<a href="<%=request.getContextPath()%>/privado">Iniciar sesión</a>
 </body>
 </html>
